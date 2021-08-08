@@ -1,5 +1,5 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
-
+file:///Users/melissa/Downloads/Web%20Design%20Homework%20/index.html 
 **Background**
 _______________________________________________________________________________________________________________________________________
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
