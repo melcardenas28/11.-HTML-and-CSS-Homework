@@ -1,6 +1,5 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-file:///Users/melissa/Downloads/Web%20Design%20Homework%20/index.html
 
 
 **Background**
